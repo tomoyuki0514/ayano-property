@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.interior-pic{
+  height: max-content;
+  max-height: 800px;
+}
+
+
+.contact-logo{
+  width: 10%;
+}
+
+.text{
+  line-height: 30px;
+}
